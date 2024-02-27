@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RightArm
+  m_Mask: 00000000000000000000000000000000000000000000000001000000000000000100000000000000000000000000000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_LeftUpLeg
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_LeftUpLeg/PT_Medieval_LeftLeg
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_LeftUpLeg/PT_Medieval_LeftLeg/PT_Medieval_LeftFoot
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_LeftUpLeg/PT_Medieval_LeftLeg/PT_Medieval_LeftFoot/PT_Medieval_LeftToe
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_LeftUpLeg/PT_Medieval_Sheat_slot
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_RightUpLeg
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_RightUpLeg/PT_Medieval_RightLeg
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_RightUpLeg/PT_Medieval_RightLeg/PT_Medieval_RightFoot
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_RightUpLeg/PT_Medieval_RightLeg/PT_Medieval_RightFoot/PT_Medieval_RightToe
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_RightUpLeg/PT_Medieval_Second_Weapon_slot
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder/PT_Medieval_LeftArm
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder/PT_Medieval_LeftArm/PT_Medieval_LeftForeArm
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder/PT_Medieval_LeftArm/PT_Medieval_LeftForeArm/PT_Medieval_Large_Shield_slot
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder/PT_Medieval_LeftArm/PT_Medieval_LeftForeArm/PT_Medieval_Left_Hand_Weapon_slot
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder/PT_Medieval_LeftArm/PT_Medieval_LeftForeArm/PT_Medieval_LeftHand
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder/PT_Medieval_LeftArm/PT_Medieval_LeftForeArm/PT_Medieval_LeftHand/PT_Medieval_LeftHandIndex1
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder/PT_Medieval_LeftArm/PT_Medieval_LeftForeArm/PT_Medieval_LeftHand/PT_Medieval_LeftHandIndex1/PT_Medieval_LeftHandIndex2
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder/PT_Medieval_LeftArm/PT_Medieval_LeftForeArm/PT_Medieval_LeftHand/PT_Medieval_LeftHandIndex1/PT_Medieval_LeftHandIndex2/PT_Medieval_LeftHandIndex3
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder/PT_Medieval_LeftArm/PT_Medieval_LeftForeArm/PT_Medieval_LeftHand/PT_Medieval_LeftHandMiddle1
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder/PT_Medieval_LeftArm/PT_Medieval_LeftForeArm/PT_Medieval_LeftHand/PT_Medieval_LeftHandMiddle1/PT_Medieval_LeftHandMiddle2
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder/PT_Medieval_LeftArm/PT_Medieval_LeftForeArm/PT_Medieval_LeftHand/PT_Medieval_LeftHandMiddle1/PT_Medieval_LeftHandMiddle2/PT_Medieval_LeftHandMiddle3
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder/PT_Medieval_LeftArm/PT_Medieval_LeftForeArm/PT_Medieval_LeftHand/PT_Medieval_LeftHandPinky1
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder/PT_Medieval_LeftArm/PT_Medieval_LeftForeArm/PT_Medieval_LeftHand/PT_Medieval_LeftHandPinky1/PT_Medieval_LeftHandPinky2
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder/PT_Medieval_LeftArm/PT_Medieval_LeftForeArm/PT_Medieval_LeftHand/PT_Medieval_LeftHandPinky1/PT_Medieval_LeftHandPinky2/PT_Medieval_LeftHandPinky3
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder/PT_Medieval_LeftArm/PT_Medieval_LeftForeArm/PT_Medieval_LeftHand/PT_Medieval_LeftHandRing1
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder/PT_Medieval_LeftArm/PT_Medieval_LeftForeArm/PT_Medieval_LeftHand/PT_Medieval_LeftHandRing1/PT_Medieval_LeftHandRing2
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder/PT_Medieval_LeftArm/PT_Medieval_LeftForeArm/PT_Medieval_LeftHand/PT_Medieval_LeftHandRing1/PT_Medieval_LeftHandRing2/PT_Medieval_LeftHandRing3
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder/PT_Medieval_LeftArm/PT_Medieval_LeftForeArm/PT_Medieval_LeftHand/PT_Medieval_LeftHandThumb1
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder/PT_Medieval_LeftArm/PT_Medieval_LeftForeArm/PT_Medieval_LeftHand/PT_Medieval_LeftHandThumb1/PT_Medieval_LeftHandThumb2
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder/PT_Medieval_LeftArm/PT_Medieval_LeftForeArm/PT_Medieval_LeftHand/PT_Medieval_LeftHandThumb1/PT_Medieval_LeftHandThumb2/PT_Medieval_LeftHandThumb3
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder/PT_Medieval_LeftArm/PT_Medieval_LeftForeArm/PT_Medieval_Medium_Shield_slot
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_LeftShoulder/PT_Medieval_LeftArm/PT_Medieval_LeftForeArm/PT_Medieval_Small_Shield_slot
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_Long_Bow_slot
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_Medium_Bow_slot
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_Neck
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_Neck/PT_Medieval_Head
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_Neck/PT_Medieval_Head/PT_Medieval_HeadTop
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_Quiver_slot
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_RightShoulder
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_RightShoulder/PT_Medieval_RightArm
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_RightShoulder/PT_Medieval_RightArm/PT_Medieval_RightForeArm
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_RightShoulder/PT_Medieval_RightArm/PT_Medieval_RightForeArm/PT_Medieval_RightHand
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_RightShoulder/PT_Medieval_RightArm/PT_Medieval_RightForeArm/PT_Medieval_RightHand/PT_Medieval_Right_Hand_Weapon_slot
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_RightShoulder/PT_Medieval_RightArm/PT_Medieval_RightForeArm/PT_Medieval_RightHand/PT_Medieval_RightHandIndex1
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_RightShoulder/PT_Medieval_RightArm/PT_Medieval_RightForeArm/PT_Medieval_RightHand/PT_Medieval_RightHandIndex1/PT_Medieval_RightHandIndex2
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_RightShoulder/PT_Medieval_RightArm/PT_Medieval_RightForeArm/PT_Medieval_RightHand/PT_Medieval_RightHandIndex1/PT_Medieval_RightHandIndex2/PT_Medieval_RightHandIndex3
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_RightShoulder/PT_Medieval_RightArm/PT_Medieval_RightForeArm/PT_Medieval_RightHand/PT_Medieval_RightHandMiddle1
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_RightShoulder/PT_Medieval_RightArm/PT_Medieval_RightForeArm/PT_Medieval_RightHand/PT_Medieval_RightHandMiddle1/PT_Medieval_RightHandMiddle2
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_RightShoulder/PT_Medieval_RightArm/PT_Medieval_RightForeArm/PT_Medieval_RightHand/PT_Medieval_RightHandMiddle1/PT_Medieval_RightHandMiddle2/PT_Medieval_RightHandMiddle3
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_RightShoulder/PT_Medieval_RightArm/PT_Medieval_RightForeArm/PT_Medieval_RightHand/PT_Medieval_RightHandPinky1
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_RightShoulder/PT_Medieval_RightArm/PT_Medieval_RightForeArm/PT_Medieval_RightHand/PT_Medieval_RightHandPinky1/PT_Medieval_RightHandPinky2
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_RightShoulder/PT_Medieval_RightArm/PT_Medieval_RightForeArm/PT_Medieval_RightHand/PT_Medieval_RightHandPinky1/PT_Medieval_RightHandPinky2/PT_Medieval_RightHandPinky3
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_RightShoulder/PT_Medieval_RightArm/PT_Medieval_RightForeArm/PT_Medieval_RightHand/PT_Medieval_RightHandRing1
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_RightShoulder/PT_Medieval_RightArm/PT_Medieval_RightForeArm/PT_Medieval_RightHand/PT_Medieval_RightHandRing1/PT_Medieval_RightHandRing2
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_RightShoulder/PT_Medieval_RightArm/PT_Medieval_RightForeArm/PT_Medieval_RightHand/PT_Medieval_RightHandRing1/PT_Medieval_RightHandRing2/PT_Medieval_RightHandRing3
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_RightShoulder/PT_Medieval_RightArm/PT_Medieval_RightForeArm/PT_Medieval_RightHand/PT_Medieval_RightHandThumb1
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_RightShoulder/PT_Medieval_RightArm/PT_Medieval_RightForeArm/PT_Medieval_RightHand/PT_Medieval_RightHandThumb1/PT_Medieval_RightHandThumb2
+    m_Weight: 1
+  - m_Path: PT_Medieval_Hips/PT_Medieval_Spine/PT_Medieval_Spine2/PT_Medieval_Spine3/PT_Medieval_RightShoulder/PT_Medieval_RightArm/PT_Medieval_RightForeArm/PT_Medieval_RightHand/PT_Medieval_RightHandThumb1/PT_Medieval_RightHandThumb2/PT_Medieval_RightHandThumb3
+    m_Weight: 1
+  - m_Path: PT_Medieval_Plague_Doctor
+    m_Weight: 1
